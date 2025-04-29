@@ -14,7 +14,7 @@ Files Included
         
     *   View creation queries to generate analytical insights
         
-*   **Online Sales Data.csv**: An optional sample dataset used for analysis.
+*   **Online Sales Data.csv**: An dataset used for analysis.
     
 *   **RESULTS TABLES.pdf**: A summary of the results of the analytical views.
     
